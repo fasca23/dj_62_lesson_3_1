@@ -1,0 +1,6 @@
+env
+main/__pycache__
+phones/__pycache__
+phones/management/__pycache__
+phones/management/commands/__pycache__
+phones/migrations/__pycache__
